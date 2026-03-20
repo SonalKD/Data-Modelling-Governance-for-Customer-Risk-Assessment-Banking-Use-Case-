@@ -12,14 +12,3 @@ The main relationships are:
 - A UBO is also linked to country information
 
 
-ER Diagram Structure (visual layout)
-                 Country
-                    ↑
-                    |
-UBO ←── Ownership Link ─── Customer ─── Business Activity
-  |                                   |
-  ↓                                   ↓
-Country                        Transaction Summary
-                                      |
-                                      ↓
-                               Risk Assessment
