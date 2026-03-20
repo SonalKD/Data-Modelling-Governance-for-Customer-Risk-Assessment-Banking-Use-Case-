@@ -1,1 +1,25 @@
+### Relationships in the Model
+READ_ME
+The customer is the central component in the model. Other data components are linked to the customer to provide a more complete view for risk assessment.
 
+The main relationships are:
+
+- A customer is associated with a business activity
+- A customer is linked to country information
+- A customer has transaction summary information
+- A customer has a recorded risk assessment
+- A customer is connected to one or more UBOs through an ownership link
+- A UBO is also linked to country information
+
+
+ER Diagram Structure (visual layout)
+                 Country
+                    ↑
+                    |
+UBO ←── Ownership Link ─── Customer ─── Business Activity
+  |                                   |
+  ↓                                   ↓
+Country                        Transaction Summary
+                                      |
+                                      ↓
+                               Risk Assessment
