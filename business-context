@@ -1,1 +1,17 @@
 
+## Business Context
+
+In a banking environment, customer risk assessment is a critical part of onboarding and ongoing monitoring. Banks are required to understand who their customers are, what activities they are involved in, and whether they pose any financial crime risk.
+
+However, assessing customer risk is not straightforward. The required information comes from multiple sources, such as customer profile data, ownership structure, geographical exposure, business activity, and transaction behaviour.
+
+This data is often stored across different systems and is not always connected in a structured way. As a result, it can be difficult to form a complete and consistent view of the customer.
+
+Without proper structure and governance, there is a risk of:
+- incomplete, inconsistent, or inaccurate data (including missing or manipulated data)
+- missed risk indicators
+- incorrect or delayed risk assessments
+
+To address this, banks need a clear way to bring together data from multiple sources, structure it properly, and apply the necessary controls to ensure reliable and explainable risk decisions.
+
+This project demonstrates how such a structured approach can be designed using data modelling, data flow, and governance principles.
