@@ -1,1 +1,32 @@
+## Data Flow
+Customer risk assessment in banking depends on information coming from multiple source systems. This information needs to be brought together in a structured way before it can support a reliable risk decision.
+
+In this use case, relevant data may come from:
+- customer profile data
+- ownership and UBO data
+- geographical and country risk data
+- business activity information
+- transaction behaviour data
+
+
+### Example Data Sources
+
+
+
+In practice, this information may be collected from a combination of internal systems, customer-provided documents, and external reference sources, such as:
+
+- Customer profile data  
+  (e.g. annual audited reports, client websites, external data providers such as Dun & Bradstreet)
+
+- Ownership and UBO data  
+  (e.g. ownership structures, KVK records, certified documents for high-risk cases)
+
+- Geographical and country risk data  
+  (e.g. country information derived from ownership structures, client presence, and transaction activity)
+
+- Business activity information  
+  (e.g. audited financial reports, company disclosures, client website)
+
+- Transaction behaviour data  
+  (e.g. internal systems such as Siebel or transaction monitoring systems)
 
