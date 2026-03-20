@@ -12,4 +12,3 @@ The main relationships are:
 - A UBO is also linked to country information
 
 
-![ER Structure](<now correct er dia.png>)
