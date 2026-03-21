@@ -76,3 +76,42 @@ A well-structured lineage process ensures that decisions are transparent, reprod
 
 This is critical for audit readiness, regulatory compliance, and stakeholder confidence.
 
+
+### Access Control, Data Protection, and Data Minimisation
+
+Sensitive customer data must be protected and accessible only to authorised users.  
+At the same time, it is equally important to ensure that only relevant data is collected and used for risk assessment.
+
+This principle of data minimisation ensures that unnecessary or excessive information is not processed.
+
+For example, when clients provide financial information for Source of Funds (SoF) or Source of Wealth (SoW), only the data required to establish and validate SoF/SoW should be used.
+
+---
+
+### Key Controls
+
+- Role-based access  
+  Access to systems and data should be aligned with user responsibilities.  
+  For example, transaction monitoring tools may not be directly accessible to KYC analysts; however, the outputs or reports generated from these systems should be available to support assessment of transaction behaviour.
+
+- Restricted access to sensitive information  
+  Certain data may require additional confidentiality controls.  
+  For instance, if a client is involved in a confidential transaction (such as an acquisition), access to related documents should be limited to specific roles (e.g. KYC owner, assigned analyst, and quality reviewer).  
+  Controlled channels should be used for sharing such information to maintain confidentiality and client trust.
+
+- Compliance with data protection regulations  
+  Data handling must align with applicable regulations such as GDPR and evolving regulatory frameworks (e.g. EU AI Act).  
+  A structured and coordinated approach can improve compliance, for example:
+  - using standardised templates that reflect current regulatory requirements  
+  - notifying analysts of regulatory updates in real time  
+  - allowing controlled transition periods when standards change  
+  - supporting teams through training and workshops to ensure correct implementation  
+
+---
+
+### Key Takeaway
+
+Effective access control and data protection ensure that sensitive information is handled responsibly, while data minimisation ensures that only relevant data is used for decision-making.
+
+Together, these principles help maintain compliance, improve efficiency, and build trust with clients and stakeholders.
+
