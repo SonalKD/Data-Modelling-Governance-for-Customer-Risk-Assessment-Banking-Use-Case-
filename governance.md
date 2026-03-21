@@ -52,3 +52,27 @@ Clear ownership ensures accountability, improves data quality, and enables timel
 ---
 
 
+### Data Lineage and Traceability
+
+It should be possible to trace how data flows from source systems to the final risk assessment.
+
+This ensures transparency, supports auditability, and allows stakeholders to understand how decisions are made.
+
+This includes:
+
+- Understanding where the data originates  
+  (e.g. how information provided by the client is captured by the KYC team, and how it is stored in systems, tools, or structured folders to ensure traceability of the original source)
+
+- Understanding how data is transformed and structured  
+  (e.g. when an analyst reviews an annual report and derives key insights such as source of income, profitability, or business profile, the logic and source used for this interpretation should be documented and stored in line with internal standards)
+
+- Understanding how data is used in decision-making  
+  (e.g. when combining customer profile, financial data, transaction behaviour, screening results, and ownership structures, the analyst should be able to trace:
+  - which sources were used  
+  - how the data was processed  
+  - how different inputs contributed to the final risk assessment)
+
+A well-structured lineage process ensures that decisions are transparent, reproducible, and supported by verifiable data.
+
+This is critical for audit readiness, regulatory compliance, and stakeholder confidence.
+
