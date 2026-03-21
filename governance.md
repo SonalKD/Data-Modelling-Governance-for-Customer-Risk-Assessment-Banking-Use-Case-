@@ -115,3 +115,31 @@ Effective access control and data protection ensure that sensitive information i
 
 Together, these principles help maintain compliance, improve efficiency, and build trust with clients and stakeholders.
 
+### Consistency and Standardisation
+
+Data definitions and formats should be standardised across systems.
+
+This ensures:
+- consistent interpretation of data  
+- easier integration across systems  
+- reduced ambiguity in risk assessment  
+
+---
+
+### Monitoring and Issue Management
+
+Data and processes should be continuously monitored to identify issues early.
+
+This includes:
+- detecting unusual data patterns  
+- identifying gaps in data  
+- tracking and resolving data quality issues  
+
+---
+
+### Key Takeaway
+
+Effective governance ensures that the data used for customer risk assessment is trustworthy, traceable, and consistently applied.
+
+Without proper governance, even well-structured data models can lead to incorrect or unreliable outcomes.
+
