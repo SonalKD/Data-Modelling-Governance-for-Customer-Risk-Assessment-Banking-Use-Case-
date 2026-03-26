@@ -1,4 +1,4 @@
-# Data-Modelling-Governance-for-Customer-Risk-Assessment-Banking-Use-Case-
+# Automation & Data-Modelling-Governance-for-Customer-Risk-Assessment-Banking-Use-Case-
 
 ## Overview
 This project demonstrates how business requirements in a banking environment can be translated into data requirements, data flows, data models, and governance controls.
